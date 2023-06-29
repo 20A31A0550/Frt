@@ -41,7 +41,8 @@ This Dentition has features of :
 
 ## home-
 
-![Screenshot (77)](https://github.com/lakshmisowjanya48/frtproject01/assets/109742084/477a49be-4e19-466a-812c-6caf4d526cad)
+![Screenshot (77)](https://github.com/20A31A0550/Frt/assets/110079134/9ea5cf16-22d9-4a58-a2a1-6021866d3d11)
+
 
 ## healthbot
 ![Screenshot (78)](https://github.com/lakshmisowjanya48/frtproject01/assets/109742084/ac5a7293-bfdc-47de-9afc-476201d08e9a)
